@@ -1,1 +1,1 @@
-  thsi file will be readonly
+  this file will be readonly
